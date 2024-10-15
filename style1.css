@@ -26,20 +26,19 @@ p {
 }
 
 .food-article {
-    background: white;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 20px;
+    background: transparent; /* Usunięcie tła */
     margin-bottom: 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px; /* Możesz dostosować, jeśli chcesz */
 }
 
 .food-title {
     color: #d35400;
+    text-align: center; /* Wycentrowanie tytułu */
 }
 
 .food-description {
     color: #555;
+    text-align: center; /* Wycentrowanie opisu */
 }
 
 .food-image {
@@ -66,3 +65,4 @@ img {
 .back-link:hover {
     text-decoration: underline;
 }
+
