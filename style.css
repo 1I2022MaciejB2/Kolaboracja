@@ -48,7 +48,7 @@ p {
 
 img {
     width: 50%;
-    height: auto; /* Zmiana wysokości na auto dla lepszego dopasowania */
+    height: auto; 
     object-fit: cover;
 }
 
