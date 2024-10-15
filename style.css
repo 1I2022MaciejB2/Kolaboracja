@@ -1,23 +1,15 @@
-article{
-    margin-bottom: 1rem;
-}
-.superArt{
-    color: antiquewhite;
-}
-p{
-    text-align: center;
-}
-header{
-    text-align: center;
-}
-img {
-    width: 50%;
-    height: 50%;
-    object-fit: cover;
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
     background-color: #f4f4f4;
+}
+
+article {
+    margin-bottom: 1rem;
+}
+
+header {
+    text-align: center;
 }
 
 .main-title {
@@ -25,8 +17,16 @@ body {
     color: #333;
 }
 
+.superArt {
+    color: antiquewhite;
+}
+
+p {
+    text-align: center;
+}
+
 .food-article {
-    background-color: white;
+    background: white;
     border: 1px solid #ddd;
     border-radius: 5px;
     padding: 20px;
@@ -39,7 +39,6 @@ body {
 }
 
 .food-description {
-    font-size: 1em;
     color: #555;
 }
 
@@ -48,6 +47,12 @@ body {
     margin: 10px auto;
     max-width: 100%;
     height: auto;
+}
+
+img {
+    width: 50%;
+    height: auto; /* Zmiana wysokości na auto dla lepszego dopasowania */
+    object-fit: cover;
 }
 
 .back-link {
@@ -61,3 +66,4 @@ body {
 .back-link:hover {
     text-decoration: underline;
 }
+
