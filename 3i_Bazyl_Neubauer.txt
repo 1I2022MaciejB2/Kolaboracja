@@ -2,5 +2,5 @@ Maciej Bazyl, Krystian Neubauer 3i gr.2
 
 https://github.com/1I2022MaciejB2/Kolaboracja/tree/main
 
-https://github.com/1I2022MaciejB2/Kolaboracja/blob/main/index.html
+https://htmlpreview.github.io/?https://github.com/1I2022MaciejB2/Kolaboracja/blob/main/index.html
 
